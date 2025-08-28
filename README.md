@@ -222,18 +222,7 @@ We welcome contributions! Please follow the guidelines in [CONTRIBUTING.md](CONT
 
 ---
 
-## 🧧 Funding
 
-If you’d like to support this open-source project, please donate to the treasury wallet:
-
-- **Solana Address**: `5AhN9khvQDbepm3DyotLefYhE9AD5RnDSsHWpaJiGuq1`
-- **EVM Address**: `0xf7Da17CC5f2F7e8667c0dC2BbA50BFe08D277e43`
-
----
-
-# 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
 
 
 
